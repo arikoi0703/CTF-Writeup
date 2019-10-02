@@ -13,15 +13,15 @@ Ghost_Diary | 500 | Unsolved
 
 Title	| Points	| Status
 :---  |---:     |:---:
-The Numbers | 50 | Solved
-13 | 100 | Solved
-Easy1 | 100 | Solved
-caesar | 100 | Solved
-Flags | 200 | Solved
+[The Numbers](https://github.com/arikoi0703/pico2019/tree/master/cryptography/The Numbers) | 50 | Solved
+[13](https://github.com/arikoi0703/pico2019/tree/master/cryptography/13) | 100 | Solved
+[Easy1](https://github.com/arikoi0703/pico2019/tree/master/cryptography/Easy1) | 100 | Solved
+[caesar](https://github.com/arikoi0703/pico2019/tree/master/cryptography/caesar) | 100 | Solved
+[Flags](https://github.com/arikoi0703/pico2019/tree/master/cryptography/Flags) | 200 | Solved
 Mr-Worldwide | 200 | Unsolved
-Tapping | 200 | Solved
-la cifra de | 200 | Solved
-rsa-pop-quiz | 200 | Solved
+[Tapping](https://github.com/arikoi0703/pico2019/tree/master/cryptography/Tapping) | 200 | Solved
+[la cifra de](https://github.com/arikoi0703/pico2019/tree/master/cryptography/la cifra de) | 200 | Solved
+[rsa-pop-quiz](https://github.com/arikoi0703/pico2019/tree/master/cryptography/la cifra de) | 200 | Solved
 miniRSA | 300 | Unsolved
 waves over lambda | 300 | Unsolved
 
