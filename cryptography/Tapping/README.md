@@ -8,6 +8,10 @@
 > The flag is in the format PICOCTF{}
 
 ### Solution
-> ```console nc 2019shell1.picoctf.com 37911 ```
-
+> ```console
+> nc 2019shell1.picoctf.com 37911
+> ```
+> the server reply
+> ```
 > .--. .. -.-. --- -.-. - ..-. { -- ----- .-. ... ...-- -.-. ----- -.. ...-- .---- ... ..-. ..- -. ..--- ..--- -.... ..... ----. ...-- --... -.... -.... ...-- }
+> ```
