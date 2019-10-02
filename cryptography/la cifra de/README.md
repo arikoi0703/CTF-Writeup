@@ -23,8 +23,9 @@
 > It 1508, Ozhgsyey Ycizmpmozd itapnzjo tnj do-ifwlki eahzwa xjntg (f xazwtx uk dhokeej fwpnfmezx) ehgy hoaqo lgypr hj l cxneiifw curaotjyt uk ehk Atgksèce Inahkw.  
 > Merqlsu’x deityd htzkrje avupaxjo it 1555 fd a itytosfaznzn uk ehk ktryy. Ehk qzwkw saraps uk ehk fwpnfmezx lrk szw ymtfzjo rklflgwwy, hze tnj llvmlbkyd ati ehk nydkc wezypry fce sniej gj mkfys uk l mtjxotnn kkd ahxfde, cmtcn hln hj oilkprkse woys eghs cuwceyuznjjyt.  
 > ```
+
 > la cifra de as known as [Vigenère cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher), so there is useful [online tool](https://cryptii.com/) to solve it.  
 > Look at the hgqqpohzCZK{m311a50_0x_a1rn3x3_h1ah3xfmel1g3m}, I guess the picoCTF{flag} was hidden in this.  
-> guess pohzCZK means picoCTF, then according to [table](https://en.wikipedia.org/wiki/Tabula_recta)  
-> find the crypto words is agfl repeated, which made pico become pohz.  
+> guess pohzCZK means picoCTF.  
+> then according to [table](https://en.wikipedia.org/wiki/Tabula_recta), find the crypto words is agfl repeated, which made pico become pohz.  
 > Then use online tool to solve like vigenere
