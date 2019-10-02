@@ -4,6 +4,28 @@ Title	| Points	| Status
 :---  |---:     |:---:
 handy-shellcode | 50 | Unsolved
 practice-run-1 | 50 | Solved
+OverFlow 0 | 100 | Solved
+OverFlow 1 | 150 | Solved
+OverFlow 2 | 250 | Unsolved
+Ghost_Diary | 500 | Unsolved
+
+# cryptohraphy
+
+Title	| Points	| Status
+:---  |---:     |:---:
+The Numbers | 50 | Solved
+13 | 100 | Solved
+Easy1 | 100 | Solved
+caesar | 100 | Solved
+Flags | 200 | Solved
+Mr-Worldwide | 200 | Unsolved
+Tapping | 200 | Solved
+la cifra de | 200 | Solved
+rsa-pop-quiz | 200 | Solved
+miniRSA | 300 | Unsolved
+waves over lambda | 300 | Unsolved
+
+# forensics
 
 # general skill
 
