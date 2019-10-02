@@ -23,5 +23,5 @@ First Grep: Part II | 200	| Solved
 plumbing |200 | Solved
 whats-the-difference | 200 | Solved
 where-is-the-file	| 200	| Solved
-flag_shop[https://github.com/arikoi0703/pico2019/tree/master/gerenal%20skill/flag_shop]	| 300	| Solved
+flag_shop(https://github.com/arikoi0703/pico2019/tree/master/gerenal%20skill/flag_shop)	| 300	| Solved
 mus1c | 300	| Unsolved
