@@ -2,7 +2,7 @@
 
 Title				|Points	|Status
 :---				|---:	|:---:
-The Factory's Secret|  1	|Unsolved	
+The Factory's Secret|  1	|Unsolved
 2Warm				| 50	|Solved
 Lets Warm Up		| 50	|Solved
 Warmed Up			| 50	|Solved
@@ -18,4 +18,3 @@ whats-the-difference|200	|Solved
 where-is-the-file	|200	|Solved
 flag_shop			|300	|Solved
 mus1c				|300	|Unsolved
-
