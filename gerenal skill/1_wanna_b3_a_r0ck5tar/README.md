@@ -46,5 +46,5 @@
 > If the rhythm without Music is nothing  
 > ```
 >  
-> I try to remove these lines from the song, rock it again, and get these number (66 79 78 74 79 86 73).
+> I try to remove these lines from the song, rock it again, and get these number (66 79 78 74 79 86 73).  
 > Turn into ascii, and put in picoCTF{}.
