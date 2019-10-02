@@ -15,3 +15,5 @@
 > ```
 > .--. .. -.-. --- -.-. - ..-. { -- ----- .-. ... ...-- -.-. ----- -.. ...-- .---- ... ..-. ..- -. ..--- ..--- -.... ..... ----. ...-- --... -.... -.... ...-- }
 > ```
+> This is [Morse code](https://en.wikipedia.org/wiki/Morse_code), use [online decoder](https://cryptii.com/) to solve it!
+
