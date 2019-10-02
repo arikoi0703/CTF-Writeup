@@ -13,7 +13,7 @@ Ghost_Diary | 500 | Unsolved
 
 Title	| Points	| Status
 :---  |---:     |:---:
-[The Numbers](https://github.com/arikoi0703/pico2019/tree/master/cryptography/The\ Numbers) | 50 | Solved
+[The Numbers](https://github.com/arikoi0703/pico2019/tree/master/cryptography/The%20Numbers) | 50 | Solved
 [13](https://github.com/arikoi0703/pico2019/tree/master/cryptography/13) | 100 | Solved
 [Easy1](https://github.com/arikoi0703/pico2019/tree/master/cryptography/Easy1) | 100 | Solved
 [caesar](https://github.com/arikoi0703/pico2019/tree/master/cryptography/caesar) | 100 | Solved
