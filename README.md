@@ -78,3 +78,23 @@ reverse_cipher | 300 | Unsolved
 vault-door-6 | 350 | Solved
 vault-door-7 | 400 | Solved
 vault-door-8 | 450 | Solved
+
+
+# web wxploitation
+
+Title	| Points	| Status
+:---  |---:     |:---:
+Insp3ct0r | 50 | Solved
+dont-use-client-side | 100 | Solved
+logon | 100 | Solved
+where are the robots | 100 | Solved
+Client-side-again | 200 | Solved
+Open-to-admins | 200 | Solved
+picobrowser | 200 | Solved
+Irish-Name-Repo 1 | 300 | Solved
+Irish-Name-Repo 2 | 350 | Solved
+Empire1 | 400 | Unsolved
+Irish-Name-Repo 3 | 400 | Unsolved
+JaWT Scratchpad | 400 | Unsolved
+Java Script Kiddie | 400 | Unsolved
+cereal hacker 1 | 450 | Unsolved
