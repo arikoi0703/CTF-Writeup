@@ -1,3 +1,11 @@
+# rsa-pop-quiz
+
+### Question
+> Class, take your seats! It's PRIME-time for a quiz... nc 2019shell1.picoctf.com 30962
+
+### Hints
+> [RSA info](https://simple.wikipedia.org/wiki/RSA_algorithm)
+
 rsa problems, online tools are useful
 
 Good morning class! It's me Ms. Adleman-Shamir-Rivest
