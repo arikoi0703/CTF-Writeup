@@ -19,3 +19,5 @@ where-is-the-file	|200	|Solved
 flag_shop			|300	|Solved
 mus1c				|300	|Unsolved
 
+[x] 123
+[] 456
