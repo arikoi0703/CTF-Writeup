@@ -2,7 +2,7 @@
 
 Title				|Points	|Status
 :---				|---:	|:---:
-The Factory's Secret|  1	|-[ ]
+The Factory's Secret|  1	|Unsolved
 2Warm				| 50	|Solved
 Lets Warm Up		| 50	|Solved
 Warmed Up			| 50	|Solved
