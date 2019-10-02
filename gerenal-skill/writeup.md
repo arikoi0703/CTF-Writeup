@@ -19,11 +19,9 @@ where-is-the-file	|200	|Solved
 flag_shop			|300	|Solved
 mus1c				|300	|Unsolved
 
-'''
 > 2Warm
 >> Can you convert the number 42 (base 10) to binary (base 2)? 
-'''
-'''
+
 Lets Warm Up
 >> If I told you a word started with 0x70 in hexadecimal, what would it start with in ASCII? 
-'''
+
