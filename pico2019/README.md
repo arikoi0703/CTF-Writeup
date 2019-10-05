@@ -29,15 +29,15 @@ waves over lambda | 300 | Unsolved
 
 Title	| Points	| Status
 :---  |---:     |:---:
-Glory of the Garden | 50 | Solved
-unzip | 50 | Solved
-So Meta | 150 | Solved
-What Lies Within | 150 | Solved
-extensions | 150 | Solved
-shark on wire 1 | 150 | Solved
+[Glory of the Garden](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/forensics/Glory%20of%20the%20Garden) | 50 | Solved
+[unzip](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/forensics/unzip) | 50 | Solved
+[So Meta](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/forensics/So%20Meta) | 150 | Solved
+[What Lies Within](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/forensics/What%20Lies%20Within) | 150 | Solved
+[extensions](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/forensics/extensions) | 150 | Solved
+[shark on wire 1](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/forensics/shark%20on%20wire%201) | 150 | Solved
 WhitePages | 250 | Unsolved
 c0rrupt | 250 | Unsolved
-like1000 | 250 | Solved
+[like1000](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/forensics/like1000) | 250 | Solved
 m00nwalk | 250 | Unsolved
 shark on wire 2 | 300 | Unsolved
 
