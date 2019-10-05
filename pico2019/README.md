@@ -13,15 +13,15 @@ Ghost_Diary | 500 | Unsolved
 
 Title	| Points	| Status
 :---  |---:     |:---:
-[The Numbers](https://github.com/arikoi0703/picoCTF2019/tree/master/cryptography/The%20Numbers) | 50 | Solved
-[13](https://github.com/arikoi0703/picoCTF2019/tree/master/cryptography/13) | 100 | Solved
-[Easy1](https://github.com/arikoi0703/picoCTF2019/tree/master/cryptography/Easy1) | 100 | Solved
-[caesar](https://github.com/arikoi0703/picoCTF2019/tree/master/cryptography/caesar) | 100 | Solved
-[Flags](https://github.com/arikoi0703/picoCTF2019/tree/master/cryptography/flags) | 200 | Solved
+[The Numbers](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/cryptography/The%20Numbers) | 50 | Solved
+[13](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/cryptography/13) | 100 | Solved
+[Easy1](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/cryptography/Easy1) | 100 | Solved
+[caesar](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/cryptography/caesar) | 100 | Solved
+[Flags](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/cryptography/flags) | 200 | Solved
 Mr-Worldwide | 200 | Unsolved
-[Tapping](https://github.com/arikoi0703/picoCTF2019/tree/master/cryptography/Tapping) | 200 | Solved
-[la cifra de](https://github.com/arikoi0703/picoCTF2019/tree/master/cryptography/la%20cifra%20de) | 200 | Solved
-[rsa-pop-quiz](https://github.com/arikoi0703/picoCTF2019/tree/master/cryptography/rsa-pop-quiz) | 200 | Solved
+[Tapping](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/cryptography/Tapping) | 200 | Solved
+[la cifra de](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/cryptography/la%20cifra%20de) | 200 | Solved
+[rsa-pop-quiz](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/cryptography/rsa-pop-quiz) | 200 | Solved
 miniRSA | 300 | Unsolved
 waves over lambda | 300 | Unsolved
 
@@ -59,9 +59,9 @@ First Grep: Part II | 200	| Solved
 plumbing |200 | Solved
 whats-the-difference | 200 | Solved
 where-is-the-file	| 200	| Solved
-[flag_shop](https://github.com/arikoi0703/picoCTF2019/tree/master/gerenal%20skill/flag_shop)	| 300	| Solved
-[mus1c](https://github.com/arikoi0703/picoCTF2019/tree/master/gerenal%20skill/mus1c) | 300	| Solved
-[1_wanna_b3_a_r0ck5tar](https://github.com/arikoi0703/picoCTF2019/tree/master/gerenal%20skill/1_wanna_b3_a_r0ck5tar) | 350 | Solved
+[flag_shop](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/gerenal%20skill/flag_shop)	| 300	| Solved
+[mus1c](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/gerenal%20skill/mus1c) | 300	| Solved
+[1_wanna_b3_a_r0ck5tar](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/gerenal%20skill/1_wanna_b3_a_r0ck5tar) | 350 | Solved
 
 # reverse engineering
 
