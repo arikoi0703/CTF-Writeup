@@ -53,6 +53,17 @@ We found this [packet capture](https://github.com/arikoi0703/CTF_writeup/blob/ma
 > right click any package, try to Follow > Stream.  
 > in this case, it's in UDP stream. Right click the package(No.63), and follow the UDP stream to get the flag.
 ---
+## WhitePages - Points: 250
+I stopped using YellowPages and moved onto WhitePages... but [the page they gave] me is all blank!
+#### Solutions
+>
+---
+## c0rrupt - Points: 250
+We found this [file](https://github.com/arikoi0703/CTF_writeup/blob/master/pico2019/forensics/c0rrupt/mystery). Recover the flag. You can also find the file in /problems/c0rrupt_0_1fcad1344c25a122a00721e4af86de13.
+- Try fixing the file header
+#### Solutions
+>
+---
 ## like1000 - Points: 250
 This [.tar file](https://github.com/arikoi0703/CTF_writeup/blob/master/pico2019/forensics/like1000/1000.tar) got tarred alot. Also available at /problems/like1000_0_369bbdba2af17750ddf10cc415672f1c.
 - Try and script this, it'll save you alot of time
@@ -66,7 +77,19 @@ This [.tar file](https://github.com/arikoi0703/CTF_writeup/blob/master/pico2019/
 > done
 > ```
 > get the flag after tar finish.
-
+---
+## m00nwalk - Points: 250
+Decode this [message](https://github.com/arikoi0703/CTF_writeup/blob/master/pico2019/forensics/m00nwalk/message.wav) from the moon. You can also find the file in /problems/m00nwalk_2_ddfd37932ded29f58963e8d9c526c2fa.
+- How did pictures from the moon landing get sent back to Earth?
+- What is the CMU mascot?, that might help select a RX option
+#### Solutions
+>
+---
+## c0rrupt - Points: 250
+We found this [packet capture](https://github.com/arikoi0703/CTF_writeup/blob/master/pico2019/forensics/shark%20on%20wire%202/capture.pcap). Recover the flag that was pilfered from the network. You can also find the file in /problems/shark-on-wire-2_0_3e92bfbdb2f6d0e25b8d019453fdbf07.
+#### Solutions
+>
+---
 
 
 
