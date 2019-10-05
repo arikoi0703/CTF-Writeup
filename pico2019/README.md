@@ -1,4 +1,4 @@
-# binary exploitation
+# Binary Exploitation
 
 Title	| Points	| Status
 :---  |---:     |:---:
@@ -9,39 +9,42 @@ OverFlow 1 | 150 | Solved
 OverFlow 2 | 250 | Unsolved
 Ghost_Diary | 500 | Unsolved
 
-# cryptohraphy
+# Cryptohraphy
 
 Title	| Points	| Status
 :---  |---:     |:---:
-[The Numbers](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/cryptography/The%20Numbers) | 50 | Solved
-[13](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/cryptography/13) | 100 | Solved
-[Easy1](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/cryptography/Easy1) | 100 | Solved
-[caesar](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/cryptography/caesar) | 100 | Solved
-[Flags](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/cryptography/flags) | 200 | Solved
-[Mr-Worldwide](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/cryptography/Mr-Worldwide) | 200 | Solved
-[Tapping](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/cryptography/Tapping) | 200 | Solved
-[la cifra de](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/cryptography/la%20cifra%20de) | 200 | Solved
-[rsa-pop-quiz](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/cryptography/rsa-pop-quiz) | 200 | Solved
-[miniRSA](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/cryptography/miniRSA) | 300 | Solved
+The Numbers | 50 | Solved
+13 | 100 | Solved
+Easy1 | 100 | Solved
+caesar | 100 | Solved
+Flags | 200 | Solved
+Mr-Worldwide | 200 | Solved
+Tapping | 200 | Solved
+la cifra de | 200 | Solved
+rsa-pop-quiz | 200 | Solved
+miniRSA | 300 | Solved
 waves over lambda | 300 | Unsolved
+AES-ABC | 400 | Unsolved
+b00tl3gRSA2 | 400 | Sloved
+b00tl3gRSA3 | 450 | Unsolved
 
-# forensics
+# Forensics
 
 Title	| Points	| Status
 :---  |---:     |:---:
-[Glory of the Garden](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/forensics/Glory%20of%20the%20Garden) | 50 | Solved
-[unzip](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/forensics/unzip) | 50 | Solved
-[So Meta](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/forensics/So%20Meta) | 150 | Solved
-[What Lies Within](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/forensics/What%20Lies%20Within) | 150 | Solved
-[extensions](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/forensics/extensions) | 150 | Solved
-[shark on wire 1](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/forensics/shark%20on%20wire%201) | 150 | Solved
+Glory of the Garden | 50 | Solved
+unzip | 50 | Solved
+So Meta | 150 | Solved
+What Lies Within | 150 | Solved
+extensions | 150 | Solved
+shark on wire 1 | 150 | Solved
 WhitePages | 250 | Unsolved
 c0rrupt | 250 | Unsolved
-[like1000](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/forensics/like1000) | 250 | Solved
+like1000 | 250 | Solved
 m00nwalk | 250 | Unsolved
 shark on wire 2 | 300 | Unsolved
 
-# general skill
+# General Skills
 
 Title	| Points	| Status
 :---  |---:     |:---:
@@ -59,11 +62,11 @@ First Grep: Part II | 200	| Solved
 plumbing |200 | Solved
 whats-the-difference | 200 | Solved
 where-is-the-file	| 200	| Solved
-[flag_shop](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/gerenal%20skill/flag_shop)	| 300	| Solved
-[mus1c](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/gerenal%20skill/mus1c) | 300	| Solved
-[1_wanna_b3_a_r0ck5tar](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/gerenal%20skill/1_wanna_b3_a_r0ck5tar) | 350 | Solved
+flag_shop | 300	| Solved
+mus1c | 300	| Solved
+1_wanna_b3_a_r0ck5tar | 350 | Solved
 
-# reverse engineering
+# Reverse Engineering
 
 Title	| Points	| Status
 :---  |---:     |:---:
@@ -81,7 +84,7 @@ vault-door-7 | 400 | Solved
 vault-door-8 | 450 | Solved
 
 
-# web wxploitation
+# Web Exploitation
 
 Title	| Points	| Status
 :---  |---:     |:---:
