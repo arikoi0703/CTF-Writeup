@@ -18,11 +18,11 @@ Title	| Points	| Status
 [Easy1](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/cryptography/Easy1) | 100 | Solved
 [caesar](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/cryptography/caesar) | 100 | Solved
 [Flags](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/cryptography/flags) | 200 | Solved
-Mr-Worldwide | 200 | Unsolved
+[Mr-Worldwide](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/cryptography/Mr-Worldwide) | 200 | Solved
 [Tapping](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/cryptography/Tapping) | 200 | Solved
 [la cifra de](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/cryptography/la%20cifra%20de) | 200 | Solved
 [rsa-pop-quiz](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/cryptography/rsa-pop-quiz) | 200 | Solved
-miniRSA | 300 | Unsolved
+[miniRSA](https://github.com/arikoi0703/CTF_writeup/tree/master/pico2019/cryptography/miniRSA) | 300 | Solved
 waves over lambda | 300 | Unsolved
 
 # forensics
@@ -45,7 +45,7 @@ shark on wire 2 | 300 | Unsolved
 
 Title	| Points	| Status
 :---  |---:     |:---:
-The Factory's Secret | 1 | Unsolved
+The Factory's Secret | 1 | Solved
 2Warm | 50 | Solved
 Lets Warm Up | 50 | Solved
 Warmed Up | 50 | Solved
