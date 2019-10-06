@@ -78,6 +78,12 @@ Lets decrypt this: [ciphertext](https://github.com/arikoi0703/CTF_writeup/blob/m
 > so let's caculate cube root of c, we will get the plain text.  
 > [cuberoot.py](https://github.com/arikoi0703/CTF_writeup/blob/master/pico2019/cryptography/miniRSA/cuberoot.py) to caculate the cube root without bit losing.  
 ---
+## waves over lambda - Points: 300
+We made alot of substitutions to encrypt [this](https://github.com/arikoi0703/CTF_writeup/blob/master/pico2019/cryptography/waves%20over%20lambda/cipher). Can you decrypt it? Connect with nc 2019shell1.picoctf.com 49935.
+- Flag is not in the usual flag format
+#### Solutions
+> substitution? try [this](https://www.quipqiup.com/)!  
+---
 ## b00tl3gRSA2 - Points: 400
 In RSA d is alot bigger than e, why dont we use d to encrypt instead of e? Connect with nc 2019shell1.picoctf.com 52762.
 - What is e generally?
