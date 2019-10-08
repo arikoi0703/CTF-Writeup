@@ -54,9 +54,20 @@ We found this [packet capture](https://github.com/arikoi0703/CTF_writeup/blob/ma
 > in this case, it's in UDP stream. Right click the package(No.63), and follow the UDP stream to get the flag.
 ---
 ## WhitePages - Points: 250
-I stopped using YellowPages and moved onto WhitePages... but [the page they gave] me is all blank!
+I stopped using YellowPages and moved onto WhitePages... but [the page they gave](https://github.com/arikoi0703/CTF_writeup/blob/master/pico2019/forensics/WhitePages/whitepages.txt) me is all blank!
 #### Solutions
->
+> the txt has too many ' ', use xxd to open it.  
+> there are too many \xe28083 and \x20.  
+> I thought it was morse code first, but it was not.  
+> a few days leter, my friend told me some hints.  
+> so let's look at the file with xxd again.  
+> there are total two types appear, \xe28083 and \x20.  
+> is not it look like a binary code? try to substitute one by 1, and the other by 0.  
+> turn it into ascii, got the flag.  
+> ```shell
+> $xxd -p whitepages.txt | tr -d \\n | sed 's/e28083/1/g;s/20/0/g'
+> ```
+> - xxd -p can only show the hex, tr delete '\n', then sed to substutite them.  
 ---
 ## c0rrupt - Points: 250
 We found this [file](https://github.com/arikoi0703/CTF_writeup/blob/master/pico2019/forensics/c0rrupt/mystery). Recover the flag. You can also find the file in /problems/c0rrupt_0_1fcad1344c25a122a00721e4af86de13.
@@ -84,12 +95,5 @@ Decode this [message](https://github.com/arikoi0703/CTF_writeup/blob/master/pico
 - What is the CMU mascot?, that might help select a RX option
 #### Solutions
 >
----
-## c0rrupt - Points: 250
-We found this [packet capture](https://github.com/arikoi0703/CTF_writeup/blob/master/pico2019/forensics/shark%20on%20wire%202/capture.pcap). Recover the flag that was pilfered from the network. You can also find the file in /problems/shark-on-wire-2_0_3e92bfbdb2f6d0e25b8d019453fdbf07.
-#### Solutions
->
-
-
 
 
