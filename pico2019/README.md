@@ -50,6 +50,7 @@ waves over lambda | 300 | Solved
 AES-ABC | 400 | Unsolved
 b00tl3gRSA2 | 400 | Solved
 b00tl3gRSA3 | 450 | Solved
+john_pollard | 500 | Solved
 
 # Forensics
 
