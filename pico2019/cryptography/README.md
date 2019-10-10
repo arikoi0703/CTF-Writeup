@@ -95,3 +95,20 @@ In RSA d is alot bigger than e, why dont we use d to encrypt instead of e? Conne
 > ```
 > e is approach to n, so we can use [RSA wiener attack](https://github.com/pablocelayes/rsa-wiener-attack) to get d.  
 > get d to decrypt c.
+---
+## b00tl3gRSA3 - Points: 450
+Why use p and q when I can use more? Connect with nc 2019shell1.picoctf.com 21880.
+- There's more prime factors than p and q, finding d is going to be different.
+#### Solutions
+> one output like [this](https://github.com/arikoi0703/CTF_writeup/blob/master/pico2019/cryptography/b00tl3gRSA3/rsa3.txt).  
+> the N has mutiple prime, and CRT is effective.  
+> the [solution](https://github.com/arikoi0703/CTF_writeup/blob/master/pico2019/cryptography/b00tl3gRSA3/sol.py) is reference to https://crypto.stackexchange.com/questions/31109/rsa-enc-decryption-with-multiple-prime-modulus-using-crt/31112#31112
+---
+## john_pollard - Points: 500
+Sometimes RSA [certificates](https://github.com/arikoi0703/CTF_writeup/blob/master/pico2019/cryptography/john_pollard/cert) are breakable
+- The flag is in the format picoCTF{p,q}
+- Try swapping p and q if it does not work
+#### Solutions
+> https://8gwifi.org/PemParserFunctions.jsp
+> this certificate has modulus show directly.  
+> do factorization and get p and q.
