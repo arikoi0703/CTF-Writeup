@@ -94,6 +94,7 @@ Decode this [message](https://github.com/arikoi0703/CTF_writeup/blob/master/pico
 - How did pictures from the moon landing get sent back to Earth?
 - What is the CMU mascot?, that might help select a RX option
 #### Solutions
->
+> [sstv](https://zh.wikipedia.org/wiki/%E6%85%A2%E6%89%AB%E6%8F%8F%E7%94%B5%E8%A7%86) [install](http://users.belgacom.net/hamradio/rxsstv.htm)
+
 
 
