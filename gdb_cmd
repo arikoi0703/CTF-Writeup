@@ -1,0 +1,31 @@
+$gdb ./file.exe
+
+see assemble code of the func
+gdb$ disassem (func name)
+gdb$ disassemble (func name)
+
+std input
+gdb$ r <<< $(python -c 'print "a"*8+"b" ')
+gdb$ r <<< $(perl -e 'print "a"x12, "b" ')
+
+run next instruction, not go into the function
+gdb$ n
+gdb$ next
+
+run instruction step by step, enter the function
+gdb$ s
+gdb$ step
+
+breakpoint set
+gdb$ b (inst no./func name)
+gdb$ breakpoint (inst no./func name)
+breakpoint unset
+gdb$ del (breakpoint no.)
+gdb$ info break //to get breakpoint no.
+
+see variable
+a can be address or variable name
+gdb$ display $(a)
+gdb$ x $(a)
+gdb$ x/32 $(a)
+gdb$ x/64 $(a) //print 32/64 bytes from address
