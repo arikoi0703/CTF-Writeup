@@ -25,6 +25,8 @@
 #### For forensics
 - https://stylesuxx.github.io/steganography/
 > steganography only.
+> https://aperisolve.fr/
+> Intergation stego
 
 #### For code
 - https://codebeautify.org/
