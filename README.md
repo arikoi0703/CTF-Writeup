@@ -2,39 +2,45 @@
 
 ## useful online tool
 
-#### For code convert
-- https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html
-> Converter between ascii, hex, octal, binary, decimal, and base64.  
-> can do some Fraction.
-> can NOT convert octal to ascii directly, in this case, use [this](http://www.unit-conversion.info/texttools/octal/), or turn octal into decimal first.  
+#### Web
+1. SQL Cheat sheet
+- https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet
+- https://github.com/payloadbox/sql-injection-payload-list
+- https://gist.github.com/bradtraversy/c831baaad44343cc945e76c2e30927b3
+- https://github.com/AdmiralGaust/SQL-Injection-cheat-sheet
 
-#### For cryptography
-> can combine multi decode or encode
+#### Cryptography
+1. multi decode / decrypt
 - https://cryptii.com/
 - https://gchq.github.io/CyberChef/
 
-> for QRcode
+2. QRcode
 - https://zxing.org/w/decode.jspx
 - https://bahamas10.github.io/binary-to-qrcode/
 
-> show the RSA evry arguments, step by step.
-> include encrypt/decrypt
+3. RSA step by step
 - https://www.cryptool.org/en/cto-highlights/rsa-step-by-step
 
-> deal whit Integer factorization, for large number.
+4. Integer factorization
 - https://www.alpertron.com.ar/ECM.HTM
 
-> for substitution cipher, try it first for substitution cipher.
+5. Virginia cipher / Substitution cipher.
 - https://www.quipqiup.com/
 
-#### For forensics
-> Intergation stego
-- https://stylesuxx.github.io/steganography/
-- https://aperisolve.fr/
+6. Base converter
+- https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html
+- http://www.unit-conversion.info/texttools/category/Converters#data
 
-#### For code
-> code beautifier
+#### Forensics
+1. Steganography
+- https://aperisolve.fr/
+- https://stylesuxx.github.io/steganography/
+
+** Practice the offline tools !!! **
+
+#### Code online compiler
+1. Beautifier
 - https://codebeautify.org/
-> both are online compiler
+2. Online compiler
 - https://repl.it/languages/
 - http://www.compileonline.com/
